@@ -1,94 +1,92 @@
-{
-  "especies": [
+[
     {
       "id": 0,
-      "imagem": "roy",
-      "nomecientifico": "india",
-      "nomebotanico": "nome botanico",
-      "habitat": "habitat",
-      "distribuicao": "distribuicao",
-      "localfoto": "local da foto"
+      "imagem": "../assets/img/Plantas/1.png",
+      "nomecientifico": "Abolboda Pulchella",
+      "nomebotanico": "Abolboda",
+      "habitat": "Vereda, campo úmido, savanas amazônicas",
+      "distribuicao": "PA, AM, RO, BA, MT, GO, DF, MG,SP",
+      "localfoto": "Parque Nacional da Chapada dos Veadeiros, Cavalcante – GO."
     },
     {
       "id": 1,
-      "imagem": "primeira planta",
-      "nomecientifico": "nome cientifico",
-      "nomebotanico": "nome botanico",
-      "habitat":"habitat",
-      "distribuicao":"distribuicao",
-      "localfoto":"local da foto"
+      "imagem": "../assets/img/Plantas/2.png",
+      "nomecientifico": "Vochysia Tucanorum",
+      "nomebotanico": "Tucaneira",
+      "habitat":"Mata ciliar, mata de galeria, cerrado",
+      "distribuicao":"BA, MT, GO, DF, MG, SP, RJ, PR, SC",
+      "localfoto":"Alto Paraíso de Goiás - GO."
     },
     {
       "id": 2,
-      "imagem": "roy",
-      "nomecientifico": "india",
-      "nomebotanico": "nome botanico",
-      "habitat": "habitat",
-      "distribuicao": "distribuicao",
-      "localfoto": "local da foto"
+      "imagem": "../assets/img/Plantas/3.png",
+      "nomecientifico": "Vochysia Thyrsoidea",
+      "nomebotanico": "Gomeira",
+      "habitat": "Cerradão, cerrado",
+      "distribuicao": "CE, BA, GO, DF, MG, SP",
+      "localfoto": "Jardim Botânico de Brasília - Brasília - DF."
     },
     {
       "id": 3,
-      "imagem": "roy",
-      "nomecientifico": "india",
-      "nomebotanico": "nome botanico",
-      "habitat": "habitat",
-      "distribuicao": "distribuicao",
-      "localfoto": "local da foto"
+      "imagem": "../assets/img/Plantas/4.png",
+      "nomecientifico": "Vochysia Elliptica",
+      "nomebotanico": "Pau-doce",
+      "habitat": "Cerrado , campo sujo, campo rupestre",
+      "distribuicao": "PE, BA, GO, DF, MG, RJ",
+      "localfoto": "Parque Estadual da Serra dos Pirineus - Pirenópolis – GO"
     },
     {
       "id": 4,
-      "imagem": "roy",
-      "nomecientifico": "india",
-      "nomebotanico": "nome botanico",
-      "habitat": "habitat",
-      "distribuicao": "distribuicao",
-      "localfoto": "local da foto"
+      "imagem": "../assets/img/Plantas/5.png",
+      "nomecientifico": "Salvertia Convallariodora",
+      "nomebotanico": "Bate-caixa, Chapéu-de-couro",
+      "habitat": "Cerrado, savanas amazônicas, carrasco",
+      "distribuicao": "PA, AM, TO, MA, PI, BA, MT, GO, DF, MG, SP",
+      "localfoto": "Grande Sertão Veredas - Chapada Gaúcha – MG"
     },
     {
       "id": 5,
-      "imagem": "roy",
-      "nomecientifico": "india",
-      "nomebotanico": "nome botanico",
-      "habitat": "habitat",
-      "distribuicao": "distribuicao",
-      "localfoto": "local da foto"
+      "imagem": "../assets/img/Plantas/6.png",
+      "nomecientifico": "Qualea Parviflora",
+      "nomebotanico": "Pau-terra-miúdo, Pau-terra-roxo",
+      "habitat": "Cerradão, cerrado , vereda, campo sujo, carrasco",
+      "distribuicao": "PA, AM, MA, PI, CE, BA, MT, GO, MG, SP",
+      "localfoto": "Jardim Botânico de Brasília - Brasília – DF."
     },
     {
       "id": 6,
-      "imagem": "roy",
-      "nomecientifico": "india",
-      "nomebotanico": "nome botanico",
-      "habitat": "habitat",
-      "distribuicao": "distribuicao",
-      "localfoto": "local da foto"
+      "imagem": "../assets/img/Plantas/7.png",
+      "nomecientifico": "Qualea Multiflora",
+      "nomebotanico": "Pau-terra-liso",
+      "habitat": "Borda de mata de galeria, cerradão, cerrado (stricto sensu), vereda, campo com murundus",
+      "distribuicao": "MA, PI, BA, MT, GO, DF, MG, SP, RJ, PR",
+      "localfoto": "Jardim Botânico de Brasília - Brasília – DF"
     },
     {
       "id": 7,
-      "imagem": "roy",
-      "nomecientifico": "india",
-      "nomebotanico": "nome botanico",
-      "habitat": "habitat",
-      "distribuicao": "distribuicao",
-      "localfoto": "local da foto"
+      "imagem": "../assets/img/Plantas/8.png",
+      "nomecientifico": "Qualea Grandiflora",
+      "nomebotanico": "Pau-terra-grande",
+      "habitat": "Borda de mata de galeria, borda de mata ciliar, cerradão, cerrado (stricto sensu), campo sujo, campo com murundus, savanas amazônicas, carrasco",
+      "distribuicao": "PA, AM, AC, MA, PI, CE, BA, MT, GO, MG, SP, PR",
+      "localfoto": "Jardim Botânico de Brasília - Brasília – DF"
     },
     {
       "id": 8,
-      "imagem": "roy",
-      "nomecientifico": "india",
-      "nomebotanico": "nome botanico",
-      "habitat": "habitat",
-      "distribuicao": "distribuicao",
-      "localfoto": "local da foto"
+      "imagem": "../assets/img/Plantas/9.png",
+      "nomecientifico": "Lippia Lacunosa",
+      "nomebotanico": "Lippia Lacunosa",
+      "habitat": "Cerrado (stricto sensu), campo rupestre (lato sensu), cerradão",
+      "distribuicao": "BA, MT, GO, DF, MG",
+      "localfoto": "Chapada Imperial - Brazlândia – DF."
     },
     {
       "id": 9,
-      "imagem": "roy",
-      "nomecientifico": "india",
-      "nomebotanico": "nome botanico",
-      "habitat": "habitat",
-      "distribuicao": "distribuicao",
-      "localfoto": "local da foto"
+      "imagem": "../assets/img/Plantas/10.png",
+      "nomecientifico": "Lantana Trifolia",
+      "nomebotanico": "Camaráiuba, Fruta de grilo, Lantana, Hortelã frutífera e Menta silvestre.",
+      "habitat": "Mata seca semidecídua, cerrado (stricto sensu), capoeira, área antrópica, daninha",
+      "distribuicao": "AP, PA, AM, AC, RO, MT, GO, DF, MS, MG, SP, RJ, PR",
+      "localfoto": "Parque Olhos D´Água - Brasília – DF."
     }
-  ]
-}
+]
