@@ -32,7 +32,7 @@ class PlantsPage extends StatelessWidget{
                     Padding(
                       padding: const EdgeInsets.all(5.0),
                     ),
-                    Image.asset(showData[index]['imagem'].toString(),scale: 2.2),
+                    Image.asset(showData[index]['imagem'],scale: 2.2),
                     ButtonBar(
                       alignment: MainAxisAlignment.start,
                       children: [
@@ -61,15 +61,12 @@ class PlantsPage extends StatelessWidget{
                   ],
                 ),
               );
-            }
-          },
+            }},
             itemCount: 10,
           );
-
         },future: DefaultAssetBundle.of(context).loadString("../assets/data.json"),
         ),
       ),
-
     );
   }
 }
